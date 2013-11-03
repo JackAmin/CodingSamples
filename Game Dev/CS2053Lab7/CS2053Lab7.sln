@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS2053Lab7", "CS2053Lab7\CS2053Lab7\CS2053Lab7.csproj", "{7D5B24AD-8B8F-46E7-BECC-5DE7350D6E97}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CS2053Lab7Content", "CS2053Lab7\CS2053Lab7Content\CS2053Lab7Content.contentproj", "{9AE4C1FD-5907-4B9B-8892-9C3F5C356DB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D5B24AD-8B8F-46E7-BECC-5DE7350D6E97}.Debug|x86.ActiveCfg = Debug|x86
+		{7D5B24AD-8B8F-46E7-BECC-5DE7350D6E97}.Debug|x86.Build.0 = Debug|x86
+		{7D5B24AD-8B8F-46E7-BECC-5DE7350D6E97}.Release|x86.ActiveCfg = Release|x86
+		{7D5B24AD-8B8F-46E7-BECC-5DE7350D6E97}.Release|x86.Build.0 = Release|x86
+		{9AE4C1FD-5907-4B9B-8892-9C3F5C356DB8}.Debug|x86.ActiveCfg = Debug|x86
+		{9AE4C1FD-5907-4B9B-8892-9C3F5C356DB8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
